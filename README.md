@@ -1,11 +1,17 @@
 # Real-time Data Stream Application
 
-This project demonstrates a full-stack application that provides real-time data streaming between a Python Flask backend and a React frontend.
+ real-time data streaming between a Python Flask backend and a React frontend.
 
 ## Project Structure
 
 - **Backend**: Python (Flask)
 - **Frontend**: React (Next.js)
+
+
+
+## KEY CONFIGURATIION:
+
+  "proxy" : "http://localhost:5000",
 
 ## Features
 
